@@ -18,7 +18,8 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "modern-normalize": "^1.1.0",
+    "simplelightbox": "^2.10.3"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
@@ -28,24 +29,3 @@
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
-
-
-// {
-//   "name": "goit-js-hw-08",
-//   "version": "1.0.0",
-//   "description": "",
-//   "main": "index.js",
-//   "scripts": {
-//     "test": "echo \"Error: no test specified\" && exit 1"
-//   },
-//   "repository": {
-//     "type": "git",
-//     "url": "git+https://github.com/Irina1234567890/goit-js-hw-08.git"
-//   },
-//   "author": "",
-//   "license": "ISC",
-//   "bugs": {
-//     "url": "https://github.com/Irina1234567890/goit-js-hw-08/issues"
-//   },
-//   "homepage": "https://github.com/Irina1234567890/goit-js-hw-08#readme"
-// }
