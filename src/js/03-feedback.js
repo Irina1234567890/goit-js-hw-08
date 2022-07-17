@@ -14,10 +14,9 @@ populateFormsFields();
 
 function onSubmitForm(event) {
 
-  if (event.target.message.value === "" || event.target.email.value === "") {
-           
+  if (event.target.message.value === "" || event.target.email.value === "") {   
             return;
-        }
+  }
 
       event.preventDefault();
       console.log(formData);
